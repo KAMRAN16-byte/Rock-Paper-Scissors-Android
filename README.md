@@ -58,9 +58,13 @@ git clone https://github.com/KAMRAN16-byte/Rock-Paper-Scissors-Android.git
 2. Sync Gradle dependencies.
 3. Run the application on an emulator or Android device.
 
-## 📸 Screenshots
+## 📸 Demo Video
 
-Add screenshots or gameplay GIFs here.
+
+
+https://github.com/user-attachments/assets/add9fd3c-9c04-450a-89ee-387653b15c31
+
+
 
 ## 💡 Learning Outcomes
 
